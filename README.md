@@ -1,5 +1,8 @@
 # Startup Feature Selection Lab
 
+- **互動式網站**：[nns2qgdq.github.io/1014-dic2](https://nns2qgdq.github.io/1014-dic2/)
+- **GitHub Repository**：[nns2qgdq/1014-dic2](https://github.com/nns2qgdq/1014-dic2)
+
 這個專案以 `50_Startups.csv` 練習新創公司利潤預測與特徵選擇，提供兩種使用方式：
 
 1. **Python 分析程式**：執行特徵選擇、nested cross-validation、保留測試集評估，並輸出五張分析圖和一份方法比較表。
